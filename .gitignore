@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+
+# Runtime logs, contact lists & checkpoints
+sent_emails.txt
+blocked_emails.txt
+dispatch_progress.xlsx
+Emails Enviados.txt
+Emails Bloqueados.txt
+progresso_envios.xlsx
+
+# Virtual environments
+venv/
+.venv/
+env/

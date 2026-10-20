@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+streamlit-quill>=0.0.3
+pandas>=2.0.0
+openpyxl>=3.1.0
+PySocks>=1.7.1
+python-dotenv>=1.0.0
+requests>=2.31.0
